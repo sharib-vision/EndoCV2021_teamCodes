@@ -1,0 +1,9 @@
+Center 1: Train||Val DICE: 93.79+-8.04||85.05 +-23.86
+Center 2: Train||Val DICE: 94.22+-11.10||87.73 +-20.65
+Center 3: Train||Val DICE: 93.97+-6.29||92.02 +-9.25
+Center 4: Train||Val DICE: 92.57+-16.57||80.34 +-30.89
+Center 5: Train||Val DICE: 86.90+-20.55||76.86 +-27.76
+Center 6: Train||Val DICE: 90.40+-20.85||84.59 +-27.30
+Center 7: Train||Val DICE: 100.00+-0.00||100.00 +-0.00
+
+Train||Val Loss: 0.2924||1.2260  -- Train||Val DICE: 91.98+-2.61||84.43 +- 7.05
