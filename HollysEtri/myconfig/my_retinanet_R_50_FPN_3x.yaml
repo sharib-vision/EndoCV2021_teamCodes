@@ -1,0 +1,8 @@
+_BASE_: "../Base-RetinaNet.yaml"
+MODEL:
+  WEIGHTS: "detectron2://ImageNetPretrained/MSRA/R-50.pkl"
+  RESNETS:
+    DEPTH: 50
+SOLVER:
+  STEPS: (5000, 7500)
+  MAX_ITER: 10000
